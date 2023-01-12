@@ -1,2 +1,2 @@
-# FoC_UCMS
+# FoC_University Course Management System
  
