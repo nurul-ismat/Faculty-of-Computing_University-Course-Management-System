@@ -1,2 +1,2 @@
-# FoC_University Course Management System
+# Faculty of Computing_University Course Management System
  
