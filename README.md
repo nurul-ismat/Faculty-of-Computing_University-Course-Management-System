@@ -19,6 +19,9 @@ Three Users: Head of Department, Lecturer and Student
 <br>
 <b>Student:</b>
 <br>
-1. Student perform activities such as view enrolled courses, course materials, view notifications.<br>
-2. Student able to view his/her performance analysis based on assignments, projects, tests, quizzes, term and finals marks, and also can upload and download
+1. Students perform activities such as view enrolled courses, course materials, view notifications.<br>
+2. Students able to view his/her performance analysis based on assignments, projects, tests, quizzes, term and finals marks, and also can upload and download
 documents after log-in into the system.
+
+
+**this project aims to develop a web-based course management system for the Faculty of Computing, allowing lecturers and students to manage their courses and enabling the Head of Department to view uploaded course files. The objectives include gathering requirements, designing and developing the system, and validating it through acceptance testing. The system will allow lecturers to manage course details, upload materials, and add notifications, while students can view their course information and grades. The Head of Department can access and review all course-related files uploaded by lecturers. This system aims to streamline access to course information for all users, improving efficiency and organization within the faculty.
